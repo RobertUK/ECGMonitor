@@ -11,8 +11,8 @@
 #include <PulseSensorPlayground.h>
 //#include "Adafruit_Keypad.h
 #include "CuteBuzzerSounds.h"
-const char *ssid = "X22";
-const char *password = "@ssh000le123";
+const char *ssid = "";
+const char *password = "";
 
 AsyncWebServer server(80);
 
